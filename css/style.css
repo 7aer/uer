@@ -132,13 +132,13 @@ a::before{
 
 }
 a:first-child::before{
-    background-image: url("../images/img-m.png") ;
+    background-image: url("https://7aer.github.io/uer/images/img-m.png") ;
 }
 a:nth-child(2)::before{
-    background-image: url("../images/img-stc.png") ;
+    background-image: url("https://7aer.github.io/uer/images/img-stc.png") ;
 }
 a:last-child::before{
-    background-image: url("../images/img-zain.jpg") ;
+    background-image: url("https://7aer.github.io/uer/images/img-zain.jpg") ;
 }
 .footer{
     position: absolute;
@@ -199,31 +199,6 @@ p{
         transform: scale(1);
 
       }
-      /*
-      12.5% {
-        transform: scale(1.1);
-
-      }
-      15% {
-        transform: scale(1.1);
-
-      }
-      17.5% {
-        transform: scale(1.1);
-
-      }
-      20% {
-        transform: scale(1.1);
-
-      }
-      22.5% {
-        transform: scale(1.1);
-
-      }
-      25% {
-        transform: scale(1.1);
-
-      } */
 }
 
   @keyframes shake {
